@@ -5,8 +5,26 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 38a72a5d25ed1544f9aa56ef878075b7
+  - enabled: 1
+    path: Assets/Scenes/Click.unity
+    guid: ce44804408819164db3c2ce8a73a19ac
+  - enabled: 1
+    path: Assets/Scenes/Hold.unity
+    guid: 0d65c82150b46bb449039316f86381d3
+  - enabled: 1
+    path: Assets/Scenes/Stick.unity
+    guid: 0cc02e8fe91b8154ba93b455f40be476
+  - enabled: 1
+    path: Assets/Scenes/Tap.unity
+    guid: af54fa40f85ebc842bd1a70288cad75a
+  - enabled: 1
+    path: Assets/Scenes/Swipe.unity
+    guid: 17ce3ebb910ddf04394cd27b62dd6b81
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
